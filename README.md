@@ -9,6 +9,6 @@
 + HTML
 + CSS
 + JavaScript
-+ this link: https://fakestoreapi.com/docs
++ this link: https://fakestoreapi.com/docs that help me to get the needed items which were 20 item and I display it into my html page
 
->* If you are interested to check the final results kindly visit [This link]()
+>* If you are interested to check the final results kindly visit [This link](https://issazeidan.github.io/fakestoreapi/)
